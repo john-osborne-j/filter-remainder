@@ -1,4 +1,4 @@
-
+This is a part of my experimentation with VibeCoding.
 
 ## What technologies are used for this project?
 
